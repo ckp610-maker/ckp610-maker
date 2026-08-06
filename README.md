@@ -36,3 +36,9 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckp610-maker&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ckp610-maker&layout=compact&theme=tokyonight)
