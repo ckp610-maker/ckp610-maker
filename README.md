@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Chandana KP
 
-<!--
-**ckp610-maker/ckp610-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student**
 
-Here are some ideas to get you started:
+📊 **Aspiring Data Analyst**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Python, SQL, Power BI, Git, HTML & CSS**
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Working on Python and Data Analytics projects
+- 🌱 Learning SQL, Power BI, Git, and Python
+- 💬 Ask me about Python, HTML, CSS, Git, and Power BI
+- 📚 Always curious to learn something new
+- ⚡ Fun fact: I enjoy solving problems and exploring new technologies.
+
+---
+
+## 🛠️ Skills
+
+- 🐍 Python
+- 🗃️ SQL
+- 📊 Power BI
+- 🌐 HTML
+- 🎨 CSS
+- 🔧 Git & GitHub
+
+---
+
+## 📄 Resume
+
+[📥 Download My Resume](./Chandana_KP_Resume.pdf)
+
+---
+
+⭐ Thanks for visiting my profile!
